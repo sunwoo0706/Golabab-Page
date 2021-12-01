@@ -1,0 +1,14 @@
+/node_modules/
+/public/build/
+
+## chore ##
+.DS_Store
+
+## yarn berry pnp ##
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
