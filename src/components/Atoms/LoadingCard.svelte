@@ -1,0 +1,3 @@
+<div class="text-center text-3xl text-white">
+    로딩중...
+</div>
