@@ -10,7 +10,7 @@ import NavItem from "../Atoms/NavItem.svelte";
 
 <nav>
     {#each navItemList as { href, text }}
-        <NavItem {href} nestedStyle="mx-4">
+        <NavItem {href} nestedStyle="mx-2 md:mx-4">
             {text}
         </NavItem>
     {/each}
