@@ -1,0 +1,6 @@
+.pnp.cjs linguist-vendored
+.pnp.loader.mjs linguist-vendored
+postcss.config.js linguist-vendored
+rollup.config.js linguist-vendored
+tailwind.config.js linguist-vendored
+.yarn/* linguist-vendored
