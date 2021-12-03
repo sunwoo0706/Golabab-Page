@@ -1,9 +1,8 @@
 <script lang="ts">
     import ErrorCard from "../Atoms/ErrorCard.svelte";
-    import LoadingCard from "../Atoms/LoadingCard.svelte";
     import CardTitle from "../Atoms/RankCardTitle.svelte";
     import MealCard from "./MealCard.svelte";
-import SkeletonBlock from "./SkeletonBlock.svelte";
+    import SkeletonBlock from "./SkeletonBlock.svelte";
 
     type theme = "white" | "blue";
 
