@@ -2,9 +2,9 @@
 import NavItem from "../Atoms/NavItem.svelte";
 
     const navItemList: {href: string, text: string}[] = [
-        {href: "#", text: "About"},
-        {href: "#", text: "Promotion"},
-        {href: "#", text: "Github"},
+        {href: "https://woozy-nut-6be.notion.site/a9897aed1a344b53b0bef9dc55eb54d3", text: "About"},
+        {href: "https://golabab.netlify.app/", text: "Promotion"},
+        {href: "https://github.com/Team-Dotori", text: "Github"},
     ]
 </script>
 
